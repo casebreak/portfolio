@@ -1,0 +1,23 @@
+.outcome {
+  font-size: 16px;
+}
+
+.spacer {
+  padding-top: 100px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+}
+
+.top-link {
+  position: fixed;
+  bottom: 2%;
+  right: 5px; 
+  color: red;
+}
+
+.img-responsive {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
